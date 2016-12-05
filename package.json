@@ -1,0 +1,22 @@
+{
+  "name": "d",
+  "version": "1.0.0",
+  "description": "",
+  "main": "d",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/15chrjef/ticTacToe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/15chrjef/ticTacToe/issues"
+  },
+  "homepage": "https://github.com/15chrjef/ticTacToe#readme",
+  "dependencies": {
+    "cli-prompt": "^0.6.0"
+  }
+}
